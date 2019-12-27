@@ -1,0 +1,17 @@
+p {
+    text-align: justify;
+    width: 90%;
+}
+
+body {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f8b195;
+    padding-top: 1px;
+}
+
+a {
+    text-align: center;
+    color: #c06c84
+}

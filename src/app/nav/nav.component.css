@@ -1,0 +1,24 @@
+ul li {
+    list-style-type: none;
+    display: inline;
+}
+
+ul li a {
+    display: inline-block;
+    border-radius: 15px;
+    font-size: 16px;
+    line-height: normal;
+    text-align: center;
+    color: #e3e3e3;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+ul li a:hover {
+    background-color: #f67280;
+    color: #F4F9F4;
+}
+
+.active {
+    background-color: #6c5b7b;
+}

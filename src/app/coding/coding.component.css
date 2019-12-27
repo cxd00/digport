@@ -1,0 +1,17 @@
+body {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f8b195;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+p a {
+    text-decoration: none;
+    color: #355c7d;
+}
+
+p:hover {
+    background-color: #F4F9F4;
+}
